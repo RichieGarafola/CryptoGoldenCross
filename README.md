@@ -33,17 +33,17 @@ pip install yfinance pandas numpy matplotlib
 
 - Clone this repository to your local machine:
 
-        git clone https://github.com/yourusername/cryptocurrency-algo-trading.git
+        git clone https://github.com/RichieGarafola/CryptoGoldenCross.git
         
 
 - Change into the project directory:
 
-        cd cryptocurrency-algo-trading
+        cd GoldenCross
 
 
 - Run the Python script:
 
-        python crypto_algo_trading.py
+        python GoldenCross.py
 
 ---
 
